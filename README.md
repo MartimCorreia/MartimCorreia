@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact **I love to play some games after I'm done with coding!**
 
- ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif =250x250)
+ 
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" width="250" height="250"/>
 
 
 <h3 align="left">Connect with me:</h3>
