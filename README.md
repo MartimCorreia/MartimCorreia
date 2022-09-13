@@ -1,3 +1,4 @@
+<div style="background-image: url('[img_girl.jpg](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)');">
 <h3 align="center">Fresh out of Le Wagon's batch #949 Web-Development Bootcamp</h3>
 
 - 🔭 I’m currently working on [my Bootcamp's Final Project (Only responsive for mobile still)](http://www.ema-project.online/)
@@ -9,7 +10,8 @@
 - 📫 How to reach me **correia_martim@hotmail.com**
 
 - ⚡ Fun fact **I love to play some games after I'm done with coding!**
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)
+
+  </div>
 
 
 <h3 align="left">Connect with me:</h3>
