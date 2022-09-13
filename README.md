@@ -1,4 +1,4 @@
-🐙 ##Welcome to my GitHub! 😸
+🐙 ###Welcome to my GitHub! 😸
 
 - 😎 Fresh out of Le Wagon's batch #949 Web-Development Bootcamp;
 - 🔭 I’m currently working on my Bootcamp's Final Project (EMA);
