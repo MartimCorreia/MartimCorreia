@@ -1,9 +1,9 @@
 
 <h3 align="center">Fresh out of Le Wagon's batch #949 Web-Development Bootcamp</h3>
 
-- 🔭 I’m currently working on [my Bootcamp's Final Project (Only responsive for mobile still)](http://www.ema-project.online/)
+- 🔭 I’m currently taking a course on Java.
 
-- 🌱 I'm looking forwards **to dig a bit deeper on Javascript, learn React and a second Back-End language (Python is on my mind)**
+- 🌱 I'm looking forwards **start my carreer as a Developer**
 
 - 📖 I'm passionate about **gaming experiences and wish to one day start learning Game Development!**
 
